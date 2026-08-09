@@ -55,7 +55,7 @@ Pivot Tables were created to analyze sales and profit performance across categor
 
 ### 3. SQL Analysis – PostgreSQL
 
-The cleaned data was imported into PostgreSQL and analyzed using SQL queries involving filtering, aggregation, grouping, ordering, and other analytical operations.
+Performed exploratory data analysis using SQL, including aggregate functions, JOINs, CASE statements, subqueries, CTEs, and window functions to analyze sales, profit, product, customer, and regional performance.
 
 ### 4. Business Analysis
 
